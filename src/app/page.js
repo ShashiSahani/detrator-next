@@ -12,7 +12,7 @@ import SearchIcon from "@mui/icons-material/Search";
 export default function Home() {
   return (
     <Box padding="10px">
-      {/* Navbar */}
+
       <Box
         display="flex"
         justifyContent="space-around"
